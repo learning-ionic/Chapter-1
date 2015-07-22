@@ -21,6 +21,7 @@ You can buy **Learning Ionic** from
 * [Amazon - India](http://www.amazon.in/gp/product/B010BEEIF2)
 
 
+
 ## Change Log
 
 ### 1.0.0 (2015-07-22)
